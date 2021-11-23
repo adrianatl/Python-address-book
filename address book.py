@@ -8,7 +8,7 @@ networkaddress= ['192.168.48.00/24', '192.168.48.00/24']
 gateway = ['192.168.48.1', '192.168.48.1']
 devices= ['Dell', 'Hp']
 models = ['optiplex5050', 'pc7900']
-
+#test comment
 printList()
 
 newName = input('Enter a Name:')
